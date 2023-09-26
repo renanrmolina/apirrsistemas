@@ -1,25 +1,32 @@
 {
-    "usuarios":[
-        {
-            "id": 1,
-            "nome": "Gallo Boy",
-            "email": "galo@boy.com",
-            "senha": "123456"
-        },
-        {
-            "id": 2,
-            "nome": "Neymar",
-            "email": "neymar@alhilal.com",
-            "senha": "alhilal123"
-        }
-    ],
-    "produtos":[
-        {
-            "id": 1,
-            "nome": "Café",
-            "descricao": "Café tipo arábica",
-            "validade": "2024-12-31",
-            "preco": 16.59
-        }
-    ]
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Gallo Boy",
+      "email": "galo@boy.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "nome": "Neymar",
+      "email": "neymar@alhilal.com",
+      "senha": "alhilal123"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Café",
+      "descricao": "Café tipo arábica",
+      "validade": "2024-12-31",
+      "preco": 16.59
+    },
+    {
+      "nome": "Chuteira do Neymar",
+      "descricao": "Preta e dourada",
+      "validade": "10/10/2050",
+      "preco": 400,
+      "id": 2
+    }
+  ]
 }
